@@ -2,11 +2,11 @@
 My name is Duy and I'm a software engineering student from Vietnam. Here's my in4
 
 ⚡ Work experience:
-  * Well, I used to work as a freelancer before and I'm looking for a new job to handle real projects and gain some experience to get in Big tech :^)
+  * Well, I used to work as a software engineer before moving to AI engieer. I'm looking for a new job to handle real projects and gain some experience to get in Big tech :^)
 
 🌱 Interests:
   * Software development.
-  * Creating content (gonna start soon :^))
+  * AI research.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/whiteowl2507/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duy-khanh-2301a2231/) 
